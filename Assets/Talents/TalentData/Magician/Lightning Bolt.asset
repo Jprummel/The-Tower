@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe19594a61df4c4f8d607ec54e5051e, type: 3}
+  m_Name: Lightning Bolt
+  m_EditorClassIdentifier: 
+  m_TalentName: Lightning Bolt
+  m_TalentDescription: Shoots a bolt of lightning at the opponent and deals * + 2x
+    |Intellect| damage.
+  m_TalentID: 19
+  m_MaxTalentLevel: 3
+  m_CurrentTalentLevel: 0
+  m_RequiredTalentID: 11
+  m_IsActivatable: 1
+  m_IsPassive: 0
+  m_TalentIcon: {fileID: 21300000, guid: d55d0484f3d9fba4da6b839026d4c660, type: 3}
+  m_TalentLevelValues:
+  - 25
+  - 50
+  - 75
+  m_ManaCost: 35
+  m_RequiredWeaponType: 2
+  m_TalentClass: 0
+  m_Cooldown: 3

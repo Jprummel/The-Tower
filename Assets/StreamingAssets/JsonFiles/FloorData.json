@@ -1,0 +1,22 @@
+{
+  "Floor1": [
+    {
+      "ID": 0,
+      "Opponent1ID": 999,
+      "Opponent2ID": 999,
+      "Opponent3ID": 999,
+      "Opponent4ID": 999,
+      "Opponent5ID": 999
+    }
+  ],
+  "Floor2": [
+    {
+      "ID": 1,
+      "Opponent1ID": 999,
+      "Opponent2ID": 999,
+      "Opponent3ID": 999,
+      "Opponent4ID": 999,
+      "Opponent5ID": 999
+    }
+  ]
+}

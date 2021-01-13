@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe19594a61df4c4f8d607ec54e5051e, type: 3}
+  m_Name: Armor Up!
+  m_EditorClassIdentifier: 
+  m_TalentName: Armor Up!
+  m_TalentDescription: Gain a shield equal to * of your maximum health
+  m_TalentID: 50
+  m_MaxTalentLevel: 2
+  m_CurrentTalentLevel: 0
+  m_RequiredTalentID: 10
+  m_IsActivatable: 1
+  m_IsPassive: 0
+  m_TalentIcon: {fileID: 21300000, guid: f24f5c84e33050243823eea6933e60d9, type: 3}
+  m_TalentLevelValues:
+  - 25%
+  - 50%
+  m_ManaCost: 10
+  m_RequiredWeaponType: 2
+  m_TalentClass: 3
+  m_Cooldown: 3

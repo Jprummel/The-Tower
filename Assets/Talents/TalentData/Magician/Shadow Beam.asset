@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe19594a61df4c4f8d607ec54e5051e, type: 3}
+  m_Name: Shadow Beam
+  m_EditorClassIdentifier: 
+  m_TalentName: Shadow Beam
+  m_TalentDescription: Shoots a beam of darkness at your enemy, dealing 50 + 2x |Intellect|
+    damage, and healing for your |Intellect|.
+  m_TalentID: 24
+  m_MaxTalentLevel: 1
+  m_CurrentTalentLevel: 0
+  m_RequiredTalentID: 23
+  m_IsActivatable: 1
+  m_IsPassive: 0
+  m_TalentIcon: {fileID: 21300000, guid: 7508d1595ab69c2469ea391076bc107c, type: 3}
+  m_TalentLevelValues: []
+  m_ManaCost: 50
+  m_RequiredWeaponType: 2
+  m_TalentClass: 0
+  m_Cooldown: 3

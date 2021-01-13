@@ -1,0 +1,503 @@
+{
+  "Level1": [
+    {
+      "ID": 0,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#734608",
+      "Name": "Peasant",
+      "Level": 1,
+      "MaxHealth": 50.0,
+      "CurrentHealth": 50.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 5,
+      "Stamina": 6,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 200,
+      "GoldToGive": 100,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 1,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#ACA69E",
+      "Name": "Thug",
+      "Level": 1,
+      "MaxHealth": 50.0,
+      "CurrentHealth": 50.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 5,
+      "Stamina": 5,
+      "Agility": 6,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 200,
+      "GoldToGive": 100,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 2,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#4D8A2A",
+      "Name": "Farmer",
+      "Level": 1,
+      "MaxHealth": 50.0,
+      "CurrentHealth": 50.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 6,
+      "Stamina": 5,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 200,
+      "GoldToGive": 100,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level2": [
+    {
+      "ID": 3,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#256400",
+      "Name": "Goblin",
+      "Level": 2,
+      "MaxHealth": 70.0,
+      "CurrentHealth": 70.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 7,
+      "Stamina": 6,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 275,
+      "GoldToGive": 200,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 3,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#000000",
+      "Name": "Giant Spider",
+      "Level": 2,
+      "MaxHealth": 90.0,
+      "CurrentHealth": 90.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 6,
+      "Stamina": 5,
+      "Agility": 6,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 275,
+      "GoldToGive": 200,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 3,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#0D4712",
+      "Name": "Man eating plant",
+      "Level": 2,
+      "MaxHealth": 80.0,
+      "CurrentHealth": 80.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 8,
+      "Stamina": 6,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 275,
+      "GoldToGive": 200,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level3": [
+    {
+      "ID": 4,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#DE9B1D",
+      "Name": "Hobgoblin",
+      "Level": 3,
+      "MaxHealth": 100.0,
+      "CurrentHealth": 100.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 9,
+      "Stamina": 10,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 375,
+      "GoldToGive": 350,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 4,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#8B978C",
+      "Name": "Guard",
+      "Level": 1,
+      "MaxHealth": 110.0,
+      "CurrentHealth": 110.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 8,
+      "Stamina": 10,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 375,
+      "GoldToGive": 350,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level4": [
+    {
+      "ID": 5,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Robot",
+      "Level": 4,
+      "MaxHealth": 130.0,
+      "CurrentHealth": 130.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 9,
+      "Stamina": 20,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 500,
+      "GoldToGive": 400,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 5,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#505050",
+      "Name": "Gargoyle",
+      "Level": 4,
+      "MaxHealth": 170.0,
+      "CurrentHealth": 170.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 6,
+      "Stamina": 25,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 500,
+      "GoldToGive": 400,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level5": [
+    {
+      "ID": 6,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#C5FF00",
+      "Name": "Giant Centipede",
+      "Level": 5,
+      "MaxHealth": 250.0,
+      "CurrentHealth": 250.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 15,
+      "Stamina": 30,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 800,
+      "GoldToGive": 500,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level6": [
+    {
+      "ID": 7,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#FFDC00",
+      "Name": "Gnoll",
+      "Level": 6,
+      "MaxHealth": 300.0,
+      "CurrentHealth": 300.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 13,
+      "Stamina": 25,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1000,
+      "GoldToGive": 500,
+      "AdvanceToNextFloor": 2
+    },
+    {
+      "ID": 7,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#76735E",
+      "Name": "Cobra",
+      "Level": 6,
+      "MaxHealth": 230.0,
+      "CurrentHealth": 230.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 15,
+      "Stamina": 20,
+      "Agility": 10,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1000,
+      "GoldToGive": 500,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level7": [
+    {
+      "ID": 8,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#68FF00",
+      "Name": "Troll",
+      "Level": 7,
+      "MaxHealth": 300.0,
+      "CurrentHealth": 300.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 16,
+      "Stamina": 30,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1250,
+      "GoldToGive": 600,
+      "AdvanceToNextFloor": 2
+    },
+    {
+      "ID": 8,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#1E231A",
+      "Name": "Hyena",
+      "Level": 7,
+      "MaxHealth": 225.0,
+      "CurrentHealth": 225.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 15,
+      "Stamina": 25,
+      "Agility": 15,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1250,
+      "GoldToGive": 600,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+
+  "Level8": [
+    {
+      "ID": 9,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#8E7409",
+      "Name": "Barbarian",
+      "Level": 8,
+      "MaxHealth": 300.0,
+      "CurrentHealth": 300.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 20,
+      "Stamina": 30,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1500,
+      "GoldToGive": 700,
+      "AdvanceToNextFloor": 2
+    },
+    {
+      "ID": 9,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#0078FF",
+      "Name": "Wandering Fighter",
+      "Level": 8,
+      "MaxHealth": 200.0,
+      "CurrentHealth": 200.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 20,
+      "Stamina": 25,
+      "Agility": 20,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1500,
+      "GoldToGive": 700,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level9": [
+    {
+      "ID": 10,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#ADADAD",
+      "Name": "Skeleton",
+      "Level": 9,
+      "MaxHealth": 300.0,
+      "CurrentHealth": 300.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 35,
+      "Stamina": 25,
+      "Agility": 10,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1750,
+      "GoldToGive": 800,
+      "AdvanceToNextFloor": 2
+    },
+    {
+      "ID": 10,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#A31F1F",
+      "Name": "Zombie",
+      "Level": 9,
+      "MaxHealth": 450.0,
+      "CurrentHealth": 450.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 25,
+      "Stamina": 25,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1750,
+      "GoldToGive": 800,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level10": [
+    {
+      "ID": 11,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#665151",
+      "Name": "Dire wolf",
+      "Level": 10,
+      "MaxHealth": 350.0,
+      "CurrentHealth": 350.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 35,
+      "Stamina": 35,
+      "Agility": 25,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 2000,
+      "GoldToGive": 1000,
+      "AdvanceToNextFloor": 3
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "Level1": [
+    {
+      "ID": 0,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Peasant",
+      "Level": 1,
+      "MaxHealth": 50.0,
+      "CurrentHealth": 50.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 5,
+      "Stamina": 5,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 200,
+      "GoldToGive": 200,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 1,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Thug",
+      "Level": 1,
+      "MaxHealth": 50.0,
+      "CurrentHealth": 50.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 5,
+      "Stamina": 5,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 200,
+      "GoldToGive": 200,
+      "AdvanceToNextFloor": 1
+    },
+    {
+      "ID": 2,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Farmer",
+      "Level": 1,
+      "MaxHealth": 50.0,
+      "CurrentHealth": 50.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 5,
+      "Stamina": 5,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 200,
+      "GoldToGive": 200,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level2": [
+    {
+      "ID": 3,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Goblin",
+      "Level": 1,
+      "MaxHealth": 80.0,
+      "CurrentHealth": 80.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 7,
+      "Stamina": 6,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 400,
+      "GoldToGive": 400,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level3": [
+    {
+      "ID": 4,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Hobgoblin",
+      "Level": 1,
+      "MaxHealth": 100.0,
+      "CurrentHealth": 100.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 10,
+      "Stamina": 10,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 600,
+      "GoldToGive": 600,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level4": [
+    {
+      "ID": 5,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Robot",
+      "Level": 1,
+      "MaxHealth": 200.0,
+      "CurrentHealth": 200.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 7,
+      "Stamina": 20,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 1000,
+      "GoldToGive": 1000,
+      "AdvanceToNextFloor": 1
+    }
+  ],
+  "Level5": [
+    {
+      "ID": 6,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Gewoon boef man",
+      "Level": 1,
+      "MaxHealth": 300.0,
+      "CurrentHealth": 300.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 15,
+      "Stamina": 30,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 2000,
+      "GoldToGive": 2000,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level6": [
+    {
+      "ID": 7,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Gnoll",
+      "Level": 1,
+      "MaxHealth": 400.0,
+      "CurrentHealth": 400.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 20,
+      "Stamina": 25,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 3000,
+      "GoldToGive": 3000,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level7": [
+    {
+      "ID": 8,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Troll",
+      "Level": 1,
+      "MaxHealth": 500.0,
+      "CurrentHealth": 500.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 30,
+      "Stamina": 30,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 4000,
+      "GoldToGive": 4000,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level8": [
+    {
+      "ID": 9,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Barbarian",
+      "Level": 1,
+      "MaxHealth": 600.0,
+      "CurrentHealth": 600.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 35,
+      "Stamina": 35,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 5000,
+      "GoldToGive": 5000,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level9": [
+    {
+      "ID": 10,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Skeleton",
+      "Level": 1,
+      "MaxHealth": 300.0,
+      "CurrentHealth": 300.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 50,
+      "Stamina": 25,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 7000,
+      "GoldToGive": 7000,
+      "AdvanceToNextFloor": 2
+    }
+  ],
+  "Level10": [
+    {
+      "ID": 11,
+      "CharacterColor": {
+        "r": 0.886274516582489,
+        "g": 0.3294117748737335,
+        "b": 0.8156862854957581,
+        "a": 1.0
+      },
+      "CharacterColorCode": "#E254D0",
+      "Name": "Zombie",
+      "Level": 1,
+      "MaxHealth": 600.0,
+      "CurrentHealth": 600.0,
+      "MaxMana": 35.0,
+      "CurrentMana": 35.0,
+      "Strength": 45,
+      "Stamina": 35,
+      "Agility": 5,
+      "Intellect": 5,
+      "Defense": 0,
+      "XPToGive": 9000,
+      "GoldToGive": 9000,
+      "AdvanceToNextFloor": 3
+    }
+  ]
+}

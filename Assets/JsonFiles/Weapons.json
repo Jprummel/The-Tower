@@ -1,0 +1,30 @@
+{
+  "Melee": [
+    {
+      "ID": 0,
+      "Name": "Knife",
+      "Damage": 2,
+      "Cost": 100
+    },
+    {
+      "ID": 1,
+      "Name": "Dagger",
+      "Damage": 4,
+      "Cost": 250
+    }
+  ],
+  "Ranged": [
+    {
+      "ID": 100,
+      "Name": "Slingshot",
+      "Damage": 1,
+      "Cost": 100
+    },
+    {
+      "ID": 101,
+      "Name": "Shortbow",
+      "Damage": 3,
+      "Cost":  300
+    }
+  ]
+}

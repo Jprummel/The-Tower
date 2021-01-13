@@ -1,0 +1,29 @@
+{
+    "CharacterColor": {
+        "r": 0.4588235318660736,
+        "g": 0.3294117748737335,
+        "b": 0.886274516582489,
+        "a": 1.0
+    },
+    "CharacterColorCode": "#7554E2",
+    "Name": "",
+    "Level": 1,
+    "MaxHealth": 110.0,
+    "CurrentHealth": 110.0,
+    "MaxMana": 35.0,
+    "CurrentMana": 35.0,
+    "Strength": 6,
+    "Stamina": 6,
+    "Agility": 5,
+    "Intellect": 5,
+    "Defense": 0,
+    "CurrentXP": 0.0,
+    "RequiredXP": 200.0,
+    "Gold": 0.0,
+    "Wins": 0,
+    "Losses": 0,
+    "CurrentFloor": 1,
+    "MaxFloor": 1,
+    "AvailableStatPoints": 1,
+    "TotalEarnedStatPoints": 3
+}
