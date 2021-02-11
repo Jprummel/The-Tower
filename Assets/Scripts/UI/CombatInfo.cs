@@ -28,7 +28,7 @@ public class CombatInfo : MonoBehaviour {
     //Opponent Info
     [Header("Opponent Info")]
     [SerializeField] private Text m_OpponentName;
-    [SerializeField] private Image m_OpponentColor;
+    [SerializeField] private Image m_OpponentAvatar;
     [SerializeField] private Text m_OpponentHPValue;
     [SerializeField] private Text m_OpponentXPValue;
     [SerializeField] private Text m_OpponentGoldValue;
@@ -80,7 +80,7 @@ public class CombatInfo : MonoBehaviour {
     public void DisplayOpponentStats()
     {
         m_OpponentName.text = Opponent.Name;
-        m_OpponentColor.color = Opponent.CharacterColor;
+        m_OpponentAvatar.sprite = Resources.Load<Sprite>("Avatars/" + Opponent.Name);
         m_OpponentHPValue.text = Opponent.CurrentHealth + " / " + (Opponent.MaxHealth + Opponent.MaxHealthBonus);
         m_OpponentXPValue.text = "XP Gain: " + Opponent.XPToGive;
         m_OpponentGoldValue.text = "Bounty: " + Opponent.GoldToGive + "G";
